@@ -7,6 +7,9 @@ function App() {
         <p>
           Hellooo Mine Benders
         </p>
+        <p>
+          David is starting to figure it out
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
